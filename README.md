@@ -20,7 +20,7 @@
 
 ## 🚀 Getting Started
 
-To get started with our library website, simply visit [www.jntua-cse-library.com](www.jntua-cse-library.com) and start exploring our collection. You can also engage with Botsonic by clicking on the chat icon located on the bottom right corner of the website.
+To get started with our library website, simply visit [(https://dineshkuddana.github.io/CSELibrary/)] and start exploring our collection. You can also engage with Botsonic by clicking on the chat icon located on the bottom right corner of the website.
 
 ## 🌟 Contributing
 
