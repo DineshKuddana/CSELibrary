@@ -24,7 +24,7 @@ To get started with our library website, simply visit [www.jntua-cse-library.com
 
 ## 🌟 Contributing
 
-We welcome contributions to improve our library website. If you have any suggestions, feature requests, or bug reports, please submit them through our [GitHub repository](https://github.com/jntua-cse-library).
+We welcome contributions to improve our library website. If you have any suggestions, feature requests, or bug reports, please submit them through our [GitHub repository] https://github.com/DineshKuddana/CSELibrary.
 
 ## 📝 License
 
