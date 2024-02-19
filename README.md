@@ -7,7 +7,7 @@
 <p align="center">Welcome to the JNTUA College Computer Science and Engineering (CSE) Department's library website! Explore our extensive collection of books, journals, and digital resources curated to support your academic journey. Engage with Botsonic, our friendly chat bot, for personalized assistance and recommendations. Seamlessly access a wealth of information to enhance your research experience.</p>
 
 <div align="center">
-  <img src="library_screenshot.png" alt="Library Website Screenshot" width="800">
+  <img src="website.png" alt="Library Website Screenshot" width="800">
 </div>
 
 ## 📚 Features
