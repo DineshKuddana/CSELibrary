@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE Library</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="heading">
+        <img src="logo.png">
+        <div class="heading-content">CSE DEPARTMENT LIBRARY</div>
+    </div>
+
+    <div class="about">
+        <div class="about-image">
+            <img src="library.jpg" alt="Library Image">
+        </div>
+        <div class="about-content">
+            <div class="about-heading">About Our Library</div>
+            <p>The Department Library of the Computer Science and Engineering (CSE) department offers a comprehensive
+                array of software and digital resources to support academic and research needs. Key software includes
+                KOHA, a robust library management system, along with access to e-resources like Knimbus and DELNET.
+                These resources are readily accessible both on-site and remotely for all registered users within the
+                campus network. Students and faculty can utilize their designated login credentials to seamlessly
+                explore and utilize the available resources, fostering a conducive environment for learning and research
+                within the department.</p>
+        </div>
+    </div>
+
+    <div class="softwares">
+        <div class="description-heading">
+            <h1>Library's Free Resource Access</h1>
+        </div>
+        <div class="description">
+            <div class="cards">
+                <img src="delnet.png">
+                <h1 class="cards-heading">DELNET</h1>
+                <p class="login-credentials">
+                    Username:apjntuacea<br>
+                    Password:jntu5251<br>
+                    Access Now
+                </p>
+                <a href="http://delnet.in/index.html" target="_blank"><button>Click me</button></a>
+            </div>
+
+            <div class="cards">
+                <img src="knimbus.png">
+                <h1 class="cards-heading">KNIMBUS</h1>
+                <p class="login-credentials">
+                    Username:principal.cea@jntua.ac.in<br>
+                    Password:centrallibrary<br>
+                    Access Now
+                </p>
+                <a href="https://www.knimbus.com/#/" target="_blank"><button>Click me</button></a>
+            </div>
+
+            <div class="cards">
+                <img src="koha.jpeg">
+                <h1 class="cards-heading">KOHA</h1>
+                <p class="login-credentials">
+                    A User can search the entire books available in
+                    the library.<br>
+                    Access Now
+                </p>
+                <a href="http://10.66.19.240/" target="_blank"><button>Click me</button></a>
+            </div>
+
+            <div class="cards">
+                <img src="nptel.jpg">
+                <h1 class="cards-heading">NPTEL VIDEOS</h1>
+                <p class="login-credentials">
+                    In the library's digital collection,
+                    Explore NPTEL's educational videos.<br>
+                    Access Now
+
+
+                </p>
+                <a href="https://nptel.ac.in/" target="_blank"><button>Click me</button></a>
+            </div>
+
+            <div class="cards">
+                <img src="IEL.jpg">
+                <h1 class="cards-heading">IEL</h1>
+                <p class="login-credentials">
+                    Username:L11003070<br>
+                    Password:L11003070<br>
+                    Access Now
+                </p>
+                <a href="www.ieindia.org" target="_blank"><button>Click me</button></a>
+            </div>
+
+            <div class="cards">
+                <img src="ndl.png">
+                <h1 class="cards-heading">NDL</h1>
+                <p class="login-credentials">
+                    Free Access<br>
+                    link : https://ndl.iitkgp.ac.in/<br>
+                    Access Now
+                </p>
+                <a href="https://ndl.iitkgp.ac.in/" target="_blank"><button>Click me</button></a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="footer">
+        <p class="copyright">&copy; 2024 JNTUACEA,Dept Of CSE. All rights reserved.</p>
+    </div>
+
+    <script>
+        (function (w, d, s, o, f, js, fjs) {
+            w['botsonic_widget'] = o;
+            w[o] =
+                w[o] ||
+                function () {
+                    (w[o].q = w[o].q || []).push(arguments);
+                };
+            (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+            js.id = o;
+            js.src = f;
+            js.async = 1;
+            fjs.parentNode.insertBefore(js, fjs);
+
+            // Add style for Botsonic widget
+            js.onload = function () {
+                var style = document.createElement('style');
+                style.innerHTML = `
+                    #Botsonic {
+                        position: fixed;
+                        bottom: 20px;
+                        right: 20px;
+                        z-index: 9999;
+                    }
+    
+                    #Botsonic img {
+                        width: 40px;
+                        height: 40px;
+                    }
+                `;
+                document.head.appendChild(style);
+            };
+        })(
+            window,
+            document,
+            'script',
+            'Botsonic',
+            'https://widget.writesonic.com/CDN/botsonic.min.js'
+        );
+        Botsonic('init', {
+            serviceBaseUrl: 'https://api.botsonic.ai',
+            token: '3b2bb143-d9d2-4fe8-ae19-345da310503d',
+        });
+    </script>
+
+
+</body>
+
+
+</html>
