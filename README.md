@@ -37,5 +37,5 @@ For any inquiries or support, please contact us at [cse-library@jntua.ac.in](mai
 ---
 
 <div align="center">
-  <img src="jntua_cse_building.jpg" alt="JNTUA College CSE Department Building" width="800">
+  <img src="dept.jpg" alt="JNTUA College CSE Department Building" width="800">
 </div>
