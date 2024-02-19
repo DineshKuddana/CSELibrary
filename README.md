@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cse.jpg" alt="JNTUA College CSE Department Logo" width="700" height="300">
+  <img src="cse_logo.jpg" alt="JNTUA College CSE Department Logo" width="700" height="300">
 </div>
 
 <h1 align="center">JNTUA College CSE Department Library Website</h1>
